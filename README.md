@@ -56,7 +56,9 @@ The domain I chose was university dorming. Although there are websites that have
 **Why these choices fit your documents: This size is large enough to contain information from the student review and also big enough that a specific section from the official webpages will be able to fit in one chunk without it containing multiple different topics (if the chunk size was larger). If we used smaller chunks then we risk having fragmented information and incomplete student reviews from some of the sources. The overlap ensures that any information that is around the chunk borders is still able to be retrieved and used.**
 
 **Final chunk count: 55**
+
 **5 Example chunks:
+
 {
     "id": "hewett_manchester_official_guide.txt-1",
     "source": "hewett_manchester_official_guide.txt",
@@ -64,6 +66,7 @@ The domain I chose was university dorming. Although there are websites that have
     "chunk_size": 150,
     "text": "Source: Hewett-Manchester Official Guide URL: https://housing.illinoisstate.edu/locations/hewett-manchester/ SECTION: Overview The Hewett-Manchester residential area consists of two 18-story residence halls located a short distance from Milner Library and the Bone Student Center. The community includes: - Themed Living-Learning Communities (TLLCs) - An outdoor basketball court - The Visor Tutoring Center All room furniture is movable, and beds can be lofted or bunked at different heights. Hewett-Manchester offers nine-month housing, meaning it remains open during university breaks. --- SECTION: Location and Campus Access Hewett-Manchester is located within walking distance of major campus resources, including: - Milner Library - Bone Student Center - Academic buildings on central campus --- SECTION: Dining Options Students in Hewett-Manchester typically dine at the Watterson Dining Commons, which is located a short walk away. Additional options include: - Subway in Manchester Hall - Various on-campus and nearby dining locations --- SECTION: Study Spaces Hewett-Manchester provides multiple study and academic"
   },
+
   {
     "id": "hewett_manchester_official_guide.txt-2",
     "source": "hewett_manchester_official_guide.txt",
@@ -71,6 +74,7 @@ The domain I chose was university dorming. Although there are websites that have
     "chunk_size": 150,
     "text": "Additional options include: - Subway in Manchester Hall - Various on-campus and nearby dining locations --- SECTION: Study Spaces Hewett-Manchester provides multiple study and academic support spaces, including: - Kong Room (reservable study space) - Vrooman/Visor Center Lounge (near tutoring center) - Visor Tutoring Center --- SECTION: Recreational and Community Spaces Available facilities include: - Piano and music practice rooms (located in the Vrooman Center) - Outdoor basketball court - Community lounges --- SECTION: Laundry Facilities Laundry rooms are located in the basement of each building and are accessible 24/7. Laundry use is included in housing costs. Students may use both high-efficiency (HE) and standard detergent. Machine availability and timing can be tracked using LaundryView at laundryview.com. --- SECTION: Room Layout Options Hewett Hall and Manchester Hall offer the following room types: Hewett Hall: - Single rooms - Double rooms - Double suite options - Quad rooms Manchester Hall: -"
   },
+
   {
     "id": "hewett_manchester_official_guide.txt-3",
     "source": "hewett_manchester_official_guide.txt",
@@ -78,6 +82,7 @@ The domain I chose was university dorming. Although there are websites that have
     "chunk_size": 150,
     "text": "Manchester Hall offer the following room types: Hewett Hall: - Single rooms - Double rooms - Double suite options - Quad rooms Manchester Hall: - Single rooms - Double rooms - Double suite options - Quad rooms Furniture is moveable, and beds can be lofted or bunked. --- SECTION: Floor Designations and Living Communities Hewett-Manchester offers themed and identity-based floors, including: - Academic and Career Exploration - Business - Health & Wellness - Information Technology - Mathematics - Nursing - Social Work - Special Education - Honors - Leadership - Music - Fine Arts - Global Perspectives - Rainbow Floor - Teacher Education These communities are designed to support academic, social, and personal development. Bathroom options include gender-neutral, male, and female facilities in select floors across Hewett and Manchester. --- SECTION: Themed Living-Learning Communities (TLLCs) Hewett-Manchester hosts multiple TLLCs that connect students with shared academic or personal interests. These communities"
   },
+
   {
     "id": "hewett_manchester_official_guide.txt-4",
     "source": "hewett_manchester_official_guide.txt",
@@ -85,6 +90,7 @@ The domain I chose was university dorming. Although there are websites that have
     "chunk_size": 150,
     "text": "across Hewett and Manchester. --- SECTION: Themed Living-Learning Communities (TLLCs) Hewett-Manchester hosts multiple TLLCs that connect students with shared academic or personal interests. These communities aim to enhance learning and build social connections within the residence halls. --- SECTION: Refrigerator Policy Students are allowed to bring refrigerators into their rooms, provided they do not exceed: - 4.5 cubic feet in size - 1.5 running amps University Housing Services does not provide or rent refrigerators. --- SECTION: What Students Should Bring Recommended items include: - Bedding (extra-long twin) - Computer and headphones - Desk lamp (non-halogen) - Alarm clock - Shower shoes and towels - Bathrobe and bathroom caddy - First aid kit - Garbage can - Umbrella - Iron --- SECTION: Housing Summary Hewett-Manchester provides a residential experience that combines academic support, themed communities, and access to campus resources. Its nine-month housing availability makes it suitable for students who wish"
   },
+  
   {
     "id": "hewett_manchester_official_guide.txt-5",
     "source": "hewett_manchester_official_guide.txt",
