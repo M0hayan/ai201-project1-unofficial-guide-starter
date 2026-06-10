@@ -90,14 +90,15 @@ The domain I chose was university dorming. Although there are websites that have
     "chunk_size": 150,
     "text": "across Hewett and Manchester. --- SECTION: Themed Living-Learning Communities (TLLCs) Hewett-Manchester hosts multiple TLLCs that connect students with shared academic or personal interests. These communities aim to enhance learning and build social connections within the residence halls. --- SECTION: Refrigerator Policy Students are allowed to bring refrigerators into their rooms, provided they do not exceed: - 4.5 cubic feet in size - 1.5 running amps University Housing Services does not provide or rent refrigerators. --- SECTION: What Students Should Bring Recommended items include: - Bedding (extra-long twin) - Computer and headphones - Desk lamp (non-halogen) - Alarm clock - Shower shoes and towels - Bathrobe and bathroom caddy - First aid kit - Garbage can - Umbrella - Iron --- SECTION: Housing Summary Hewett-Manchester provides a residential experience that combines academic support, themed communities, and access to campus resources. Its nine-month housing availability makes it suitable for students who wish"
   },
-  
+
   {
     "id": "hewett_manchester_official_guide.txt-5",
     "source": "hewett_manchester_official_guide.txt",
     "chunk_index": 5,
     "chunk_size": 31,
     "text": "a residential experience that combines academic support, themed communities, and access to campus resources. Its nine-month housing availability makes it suitable for students who wish to remain on campus during breaks."
-  },**
+  },
+
 ---
 
 ## Embedding Model
@@ -164,8 +165,9 @@ international_student_housing.txt, chunk 3, distance 0.529988
 Chunk text begins with:
 required PRIVATELY OWNED APARTMENTS (OFF-CAMPUS HOUSING) - Managed by private landlords, not the university ... Roommate finder tool ...
 
+
 For this question the first chunk talks about the filtering process for roomate, the second talks about using social media to find suitable roomates, and the third chunk talks about the roomate finder tool on the official website. All 3 of these are related to the query about the roomate selection process.
-**
+
 ---
 
 ## Grounded Generation
@@ -215,10 +217,8 @@ Sources: reddit_overcrowding.txt, reddit_housing_discussion.txt, reddit_pros_and
 | 1 |Which dorm is the best choice for a freshman who wants a social environment and easy access to campus resources? | Watterson towers is a good choice for freshman seeking a social environment as students have described it as having a large population which makes it easy to meet people. It is also a central location and has study spaces. | Watterson towers is best for social life and room size, but can be crowded. |Relevant | partially accurate |
 | 2 | What are the biggest complaints students have about living in Watterson Towers, and do the benefits outweigh the drawbacks?| Students have identified that there are long elevator wait times during busy periods, the building is pretty big which makes it confusing to navigate, high noise levels due to high population. In spite of these concerns, there are strong social opportunities and convenient areas to study, eat and hang out. Overall, students have noted that watterson has some issues due to its large size but the social opportunities and convenience outweights that issue.| Biggest issues include elevator delays and wait times, frequent fire alarms, high population density, crowding, and concerns about cleanliness. While Watterson Towers has benefits such as a strong social environment, easy access to campus, larger room sizes, and natural light and views, the drawbacks may outweigh these advantages for some students | relevant | accurate |
 | 3 | How does the roommate selection process work, and what advice do current students give for finding a good roommate?| The roomate selection process happens through the university housing application system. In that portal students are able to look for roomates based on interests, housing preferences and themed living-learnign communities. Current students recommend: discussing sleep and study schedules early, talk about expectations like clenliness, reaching out to a variety of people, being honest about preferences to avoid later conflict.|  The roommate selection process involves checking the TLLC approval individually on potential roommates' profiles, messaging multiple matches to increase the chances of finding a compatible roommate, and using social media groups to connect with other students. Students advised to be patient. | relevant | accurate |
-| 4 | What housing rules and policies should new residents be aware of before moving into an ISU residence hall?| New students should be aware of: guest and visitation policies, prohibited items within residence halls, safety and fire regulations and housing contract obligations.
-Room condition and damage responsibilities, check-in and move-out procedures.| Accountability Standards, Housing Behavior Policies, Access policies (24/7 secured residence halls, Redbird ID required for entry), Keys and Identification policies (residents must carry ID and room key(s) at all times), Room Change Policy, Room Condition & Cleanliness, Smoke and Tobacco Policy, Sports in Halls, Sprinkler Systems, Student Room Policies (furniture, decorations, open flame, trash), Safety Policies (Fire Safety, Emergency Equipment, Harassment), and Room Entry and Search policies. | relevant | accurate |
-| 5 |Is overcrowding a significant issue in ISU housing, and how has it affected students' living experiences? |Student discussions indicate that overcrowding has been a concern during some housing cycles. Reported effects include: increased demand for housing spaces, greater competition for preferred room assignments, more crowded common areas and facilities. 
-However, official housing information shows that the university has housing assignments to manage this. Some students have reported a minimal disruption while others state that there are some noticeable impacts on housing comfort. | Overcrowding is a huge issue, with some students placed into crowded dorms. The issue is caused by incresing enrollment with minimal personal impact.| Relevant| Partially accurate|
+| 4 | What housing rules and policies should new residents be aware of before moving into an ISU residence hall?| New students should be aware of: guest and visitation policies, prohibited items within residence halls, safety and fire regulations and housing contract obligations. Room condition and damage responsibilities, check-in and move-out procedures.| Accountability Standards, Housing Behavior Policies, Access policies (24/7 secured residence halls, Redbird ID required for entry), Keys and Identification policies (residents must carry ID and room key(s) at all times), Room Change Policy, Room Condition & Cleanliness, Smoke and Tobacco Policy, Sports in Halls, Sprinkler Systems, Student Room Policies (furniture, decorations, open flame, trash), Safety Policies (Fire Safety, Emergency Equipment, Harassment), and Room Entry and Search policies. | relevant | accurate |
+| 5 | Is overcrowding a significant issue in ISU housing, and how has it affected students' living experiences?|Student discussions indicate that overcrowding has been a concern during some housing cycles. Reported effects include: increased demand for housing spaces, greater competition for preferred room assignments, more crowded common areas and facilities. However, official housing information shows that the university has housing assignments to manage this. Some students have reported a minimal disruption while others state that there are some noticeable impacts on housing comfort.| Overcrowding is a huge issue, with some students placed into crowded dorms. The issue is caused by incresing enrollment with minimal personal impact.| Relevant | Partially accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
